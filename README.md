@@ -17,6 +17,6 @@ On Invalid Ingredient Shows no Data
 
 ![image](https://user-images.githubusercontent.com/111651944/204082027-1eca1de2-48f1-4950-9d15-f1c9be087b60.png)
 
-![Screenshot_20221126_150219](https://user-images.githubusercontent.com/111651944/204082101-cf254c72-876e-4873-b973-884f7fe18abc.png)
+![image](https://user-images.githubusercontent.com/111651944/204082377-d71ff740-c2a1-4c35-9f6f-c9f0abc8cc12.png)
 
 Use of Fetch API to get all the Data from the API and used Vanilla Javascript, CSS & HTML to Design the Webpage.
