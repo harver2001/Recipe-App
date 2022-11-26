@@ -8,7 +8,7 @@ In the project, you can:
 
 ![image](https://user-images.githubusercontent.com/111651944/204082173-475e1c41-3a55-4aca-b760-93a202442e34.png)
 
-On Invalid Ingredient Shows no Data
+Shows no Data on Invalid Ingredient 
 
 ![image](https://user-images.githubusercontent.com/111651944/204082213-59e28e6d-e59f-482e-9bed-47a444233531.png)
 
