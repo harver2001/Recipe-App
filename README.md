@@ -2,7 +2,7 @@
 
 In the project, you can:
 
-### 1)  Search for Recipes with Ingridients of your Choice
+### 1)  Search for Recipes with Ingredients of your Choice
 
 ![image](https://user-images.githubusercontent.com/111651944/204081876-8910bd40-1995-40e9-af94-c52446bd4275.png)
 
@@ -10,7 +10,12 @@ In the project, you can:
 
 ![image](https://user-images.githubusercontent.com/111651944/204081987-d9d4177e-bb0c-4db7-8227-8df25348ae8e.png)
 
-### 2)  Get All Details about the Dish including the Tutorial on how to Make it 
+On Invalid Ingredient Shows no Data
+
+![image](https://user-images.githubusercontent.com/111651944/204082213-59e28e6d-e59f-482e-9bed-47a444233531.png)
+
+
+### 2)  Get All Details about the Dish Including the Tutorial on How to Make it 
 
 ![image](https://user-images.githubusercontent.com/111651944/204082027-1eca1de2-48f1-4950-9d15-f1c9be087b60.png)
 
