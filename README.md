@@ -8,8 +8,6 @@ In the project, you can:
 
 ![image](https://user-images.githubusercontent.com/111651944/204082173-475e1c41-3a55-4aca-b760-93a202442e34.png)
 
-![image](https://user-images.githubusercontent.com/111651944/204081987-d9d4177e-bb0c-4db7-8227-8df25348ae8e.png)
-
 On Invalid Ingredient Shows no Data
 
 ![image](https://user-images.githubusercontent.com/111651944/204082213-59e28e6d-e59f-482e-9bed-47a444233531.png)
