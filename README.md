@@ -6,7 +6,7 @@ In the project, you can:
 
 ![image](https://user-images.githubusercontent.com/111651944/204081876-8910bd40-1995-40e9-af94-c52446bd4275.png)
 
-![image](https://user-images.githubusercontent.com/111651944/204081948-ef8d139d-2d9c-4afb-9d8e-c8043670748f.png)
+![image](https://user-images.githubusercontent.com/111651944/204082173-475e1c41-3a55-4aca-b760-93a202442e34.png)
 
 ![image](https://user-images.githubusercontent.com/111651944/204081987-d9d4177e-bb0c-4db7-8227-8df25348ae8e.png)
 
